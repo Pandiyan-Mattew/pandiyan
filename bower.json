@@ -1,0 +1,29 @@
+{
+  "name": "portfolio website",
+  "description": "This is portfolio website",
+  "main": "index.js",
+  "authors": [
+    "pandiyan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "portfolio"
+  ],
+  "homepage": "https://github.com/pandiyan-ponraj/pandiyan",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dev",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.5",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "1.5.5"
+  }
+}
