@@ -1,2 +1,2 @@
 # pandiyan
-poftfolio
+portfolio
