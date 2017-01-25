@@ -1,0 +1,11 @@
+html, body {
+  background-color: #000;
+  color: #fff; }
+
+h1, h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: blue;
+  paddding: 8px 10px; }
+
+/*# sourceMappingURL=custom.css.map */

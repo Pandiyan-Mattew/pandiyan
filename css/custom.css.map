@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACT,gBAAgB,EAAC,IAAI;EACrB,KAAK,EAAC,IAAI;;ACKX,MAAM;EAJL,SAAS,EAKM,GAAG;EAJlB,WAAW,EAIS,IAAI;EAHxB,KAAK,EAGqB,IAAI;EAC9B,QAAQ,EAAG,QAAQ",
+"sources": ["../sass/pans.scss","../sass/custom.scss"],
+"names": [],
+"file": "custom.css"
+}
